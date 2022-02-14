@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99a2f1ac-b2d7-42a2-9838-cb8302b613aa" name="Default Changelist" comment="20200408:脱单了,提个commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\promgramfiles\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\promgramfiles\apache-maven-3.6.3\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n0LnrIqklqhCBDd0ydWnDJf7qF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GithubdataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="githubdata" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxb.githubdata.GithubdataApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="DB_USERNAME" value="root" />
+        <env name="DB_PASSWORD" value="515257" />
+        <env name="DB_HOST" value="localhost" />
+        <env name="DB_PORT" value="3306" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99a2f1ac-b2d7-42a2-9838-cb8302b613aa" name="Default Changelist" comment="" />
+      <created>1610522233789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610522233789</updated>
+      <workItem from="1610522236506" duration="3782000" />
+      <workItem from="1616998969220" duration="517000" />
+      <workItem from="1616999559138" duration="913000" />
+      <workItem from="1617000510190" duration="300000" />
+      <workItem from="1617000877228" duration="3145000" />
+      <workItem from="1617342210953" duration="1302000" />
+      <workItem from="1617693734854" duration="4606000" />
+      <workItem from="1617867575798" duration="7345000" />
+      <workItem from="1617885440258" duration="1141000" />
+      <workItem from="1617938371699" duration="8371000" />
+      <workItem from="1618754871658" duration="5865000" />
+      <workItem from="1618903354675" duration="2549000" />
+      <workItem from="1618997910219" duration="9773000" />
+      <workItem from="1619486644948" duration="6002000" />
+      <workItem from="1620377822125" duration="1266000" />
+      <workItem from="1620462119053" duration="1750000" />
+      <workItem from="1620614508318" duration="13000000" />
+      <workItem from="1620651313203" duration="8278000" />
+      <workItem from="1620700155247" duration="16192000" />
+      <workItem from="1621258013986" duration="1508000" />
+      <workItem from="1621317865316" duration="7918000" />
+      <workItem from="1621404758260" duration="2811000" />
+      <workItem from="1644671793046" duration="2810000" />
+      <workItem from="1644743208557" duration="605000" />
+      <workItem from="1644759521392" duration="2392000" />
+      <workItem from="1644843741976" duration="13000" />
+      <workItem from="1644843796028" duration="158000" />
+    </task>
+    <task id="LOCAL-00001" summary="20200408:脱单了,提个commit">
+      <created>1617939871123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617939871123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200408:脱单了,提个commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200408:脱单了,提个commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="33" width="963" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621347055234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="118" y="33" width="963" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621347055234" />
+    <state x="512" y="279" width="511" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620617681181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="279" width="511" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1620617681181" />
+    <state x="511" y="104" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1620700603635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="104" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1620700603635" />
+    <state x="548" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1620637615773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="0" key="Diagram.Print.Preview.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1620637615773" />
+    <state x="465" y="94" key="FileChooserDialogImpl" timestamp="1621346403966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="94" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621346403966" />
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1621349232282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1621349232282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1621349232282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1621349232282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1621349232283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
+    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1621349232283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
+    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1621349232282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1621349232283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1617884834399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1617884834399" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1617000345246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1617000345246" />
+    <state x="182" y="0" key="SettingsEditor" timestamp="1621346589421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="182" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621346589421" />
+    <state x="639" y="299" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1617939554944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="299" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1617939554944" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618756219017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618756219017" />
+  </component>
+</project>

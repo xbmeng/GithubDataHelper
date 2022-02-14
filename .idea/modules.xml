@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/github-datamanager.iml" filepath="$PROJECT_DIR$/.idea/github-datamanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubdata/githubdata.iml" filepath="$PROJECT_DIR$/githubdata/githubdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,7 +1,6 @@
 # github-datamanager
-毕业设计
+敏捷软件开发
 
-从githubAPI获取信息
 
 ## model
 1. UserFollow 用户关注信息  

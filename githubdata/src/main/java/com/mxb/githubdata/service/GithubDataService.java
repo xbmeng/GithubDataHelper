@@ -31,6 +31,7 @@ public class GithubDataService {
 
     public static final String BASEURL = "http://api.github.com/";
 
+    //TODO : github tooken 非法
     public static final String ACCESS_TOKEN = "27761323d68e6685b899c1f2388851403d24f5ae";
 
     @Resource

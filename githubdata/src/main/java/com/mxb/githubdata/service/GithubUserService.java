@@ -412,6 +412,7 @@ public class GithubUserService {
     public JSONObject getUserBasicInfo(String userName)
     {
         GithubUser temp = new GithubUser();
+//        int i = 1;
         temp.setUserName(userName);
         GithubUser githubUser = githubUserRepo.queryByKeys(temp);
         JSONObject jsonObject = new JSONObject();

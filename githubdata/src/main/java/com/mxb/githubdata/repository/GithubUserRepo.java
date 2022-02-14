@@ -23,6 +23,7 @@ public class GithubUserRepo extends BaseRepo<GithubUser, GithubUserBO> {
     }
 
     public GithubUser queryByKeys(GithubUser githubUser) {
+//        int
         return githubUserMapper.selectOne(githubUser);
     }
 

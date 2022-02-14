@@ -1,6 +1,7 @@
 package com.mxb.githubdata.userinterface.controller;
 
 import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
 import com.mxb.common.base.ApiResult;
 import com.mxb.githubdata.config.SwaggerConfig;
 import com.mxb.githubdata.service.GithubUserService;
@@ -40,9 +41,9 @@ public class GithubUserController {
         return githubUserService.getAllUsersFollow();
     }
 
-//    @ApiOperation(value = "数据库获取用户基本信息")
-//    @PostMapping(value = "/getuserbasicinfo", produces = MediaType.APPLICATION_JSON_VALUE)
-//    public JSONObject getUserBasicInfo(String userName) { return githubUserService.getUserBasicInfo(userName); }
+    @ApiOperation(value = "数据库获取用户基本信息")
+    @PostMapping(value = "/getuserbasicinfo", produces = MediaType.APPLICATION_JSON_VALUE)
+    public JSONObject getUserBasicInfo(String userName) { return githubUserService.getUserBasicInfo(userName); }
 
 //    @ApiOperation(value = "数据库获取用户仓库语言")
 //    @PostMapping(value = "/getuserlanginfo", produces = MediaType.APPLICATION_JSON_VALUE)

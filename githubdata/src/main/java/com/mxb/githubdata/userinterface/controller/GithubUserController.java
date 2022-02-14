@@ -1,6 +1,7 @@
 package com.mxb.githubdata.userinterface.controller;
 
 import com.alibaba.fastjson.JSONArray;
+import com.mxb.common.base.ApiResult;
 import com.mxb.githubdata.config.SwaggerConfig;
 import com.mxb.githubdata.service.GithubUserService;
 import io.swagger.annotations.Api;
@@ -21,24 +22,24 @@ public class GithubUserController {
     @Resource
     private GithubUserService githubUserService;
 
-//    @ApiOperation(value = "调用github api获取用户信息")
-//    @PostMapping(value = "/getuserinfo", produces = MediaType.APPLICATION_JSON_VALUE)
-//    public ApiResult getRepoInfo(String userName) {
-//        return githubUserService.getUserInfo(userName);
-//    }
-//
-//    @ApiOperation(value = "调用github api获取用户follow信息")
-//    @PostMapping(value = "/getuserfollow", produces = MediaType.APPLICATION_JSON_VALUE)
-//    public ApiResult getUserFollow(String userName) {
-//        return githubUserService.getUserFollow(userName);
-//    }
-//
-//    @ApiOperation(value = "调用github api获取全部用户follow信息")
-//    @PostMapping(value = "/getallusersfollow", produces = MediaType.APPLICATION_JSON_VALUE)
-//    public ApiResult getUserFollow() {
-//        return githubUserService.getAllUsersFollow();
-//    }
-//
+    @ApiOperation(value = "调用github api获取用户信息")
+    @PostMapping(value = "/getuserinfo", produces = MediaType.APPLICATION_JSON_VALUE)
+    public ApiResult getRepoInfo(String userName) {
+        return githubUserService.getUserInfo(userName);
+    }
+
+    @ApiOperation(value = "调用github api获取用户follow信息")
+    @PostMapping(value = "/getuserfollow", produces = MediaType.APPLICATION_JSON_VALUE)
+    public ApiResult getUserFollow(String userName) {
+        return githubUserService.getUserFollow(userName);
+    }
+
+    @ApiOperation(value = "调用github api获取全部用户follow信息")
+    @PostMapping(value = "/getallusersfollow", produces = MediaType.APPLICATION_JSON_VALUE)
+    public ApiResult getUserFollow() {
+        return githubUserService.getAllUsersFollow();
+    }
+
 //    @ApiOperation(value = "数据库获取用户基本信息")
 //    @PostMapping(value = "/getuserbasicinfo", produces = MediaType.APPLICATION_JSON_VALUE)
 //    public JSONObject getUserBasicInfo(String userName) { return githubUserService.getUserBasicInfo(userName); }

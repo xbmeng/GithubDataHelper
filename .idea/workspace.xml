@@ -26,16 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99a2f1ac-b2d7-42a2-9838-cb8302b613aa" name="Default Changelist" comment="20200408:脱单了,提个commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_config_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/githubdata/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4097326b-b525-4cf3-b05f-f35e88f5de28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4097326b-b525-4cf3-b05f-f35e88f5de28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/githubdata/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/githubdata/src/main/java/com/mxb/githubdata/userinterface/controller/GithubUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/src/main/java/com/mxb/githubdata/userinterface/controller/GithubUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/githubdata/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubdata/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +144,7 @@
       <workItem from="1645860567974" duration="1974000" />
       <workItem from="1646311813336" duration="1365000" />
       <workItem from="1646372163675" duration="1140000" />
-      <workItem from="1650168119675" duration="307000" />
+      <workItem from="1650168119675" duration="2502000" />
     </task>
     <task id="LOCAL-00001" summary="20200408:脱单了,提个commit">
       <created>1617939871123</created>

@@ -7,11 +7,10 @@ import com.mxb.githubdata.config.SwaggerConfig;
 import com.mxb.githubdata.service.GithubUserService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.http.MediaType;
-import org.springframework.web.bind.annotation.CrossOrigin;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
@@ -19,17 +18,29 @@ import javax.annotation.Resource;
 @RestController
 @CrossOrigin
 @RequestMapping(value = SwaggerConfig.API_V1 + "/getgithubuser")
+@RefreshScope
 public class GithubUserController {
     @Resource
     private GithubUserService githubUserService;
 
+    @Value("${config.configUsername}")
+    private String configUsername;
+
+    @GetMapping("/config")
+    public String getConfigUsername()
+    {
+        return configUsername;
+    }
+
     @ApiOperation(value = "调用github api获取用户信息")
+//    @Value("${config.configUsername}")
     @PostMapping(value = "/getuserinfo", produces = MediaType.APPLICATION_JSON_VALUE)
     public ApiResult getRepoInfo(String userName) {
         return githubUserService.getUserInfo(userName);
     }
 
     @ApiOperation(value = "调用github api获取用户follow信息")
+//    @Value("${config.configUsername}")
     @PostMapping(value = "/getuserfollow", produces = MediaType.APPLICATION_JSON_VALUE)
     public ApiResult getUserFollow(String userName) {
         return githubUserService.getUserFollow(userName);

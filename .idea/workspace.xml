@@ -25,7 +25,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a2f1ac-b2d7-42a2-9838-cb8302b613aa" name="Default Changelist" comment="20200408:脱单了,提个commit" />
+    <list default="true" id="99a2f1ac-b2d7-42a2-9838-cb8302b613aa" name="Default Changelist" comment="20200408:脱单了,提个commit">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_config_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/githubdata/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4097326b-b525-4cf3-b05f-f35e88f5de28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4097326b-b525-4cf3-b05f-f35e88f5de28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubdata/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubdata/src/main/java/com/mxb/githubdata/userinterface/controller/GithubUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/src/main/java/com/mxb/githubdata/userinterface/controller/GithubUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubdata/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/githubdata/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +47,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -59,6 +78,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -73,9 +93,10 @@
       <module name="githubdata" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxb.githubdata.GithubdataApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <envs>
         <env name="DB_USERNAME" value="root" />
-        <env name="DB_PASSWORD" value="515257" />
+        <env name="DB_PASSWORD" value="123456" />
         <env name="DB_HOST" value="localhost" />
         <env name="DB_PORT" value="3306" />
       </envs>
@@ -118,7 +139,18 @@
       <workItem from="1644743208557" duration="605000" />
       <workItem from="1644759521392" duration="2392000" />
       <workItem from="1644843741976" duration="13000" />
-      <workItem from="1644843796028" duration="662000" />
+      <workItem from="1644843796028" duration="1313000" />
+      <workItem from="1645091672839" duration="656000" />
+      <workItem from="1645280815696" duration="15000" />
+      <workItem from="1645433417149" duration="2246000" />
+      <workItem from="1645512137784" duration="23000" />
+      <workItem from="1645533110114" duration="3128000" />
+      <workItem from="1645592115350" duration="10000" />
+      <workItem from="1645798764811" duration="2192000" />
+      <workItem from="1645860567974" duration="1974000" />
+      <workItem from="1646311813336" duration="1365000" />
+      <workItem from="1646372163675" duration="1140000" />
+      <workItem from="1650168119675" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="20200408:脱单了,提个commit">
       <created>1617939871123</created>
@@ -148,79 +180,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200408:脱单了,提个commit" />
     <option name="LAST_COMMIT_MESSAGE" value="20200408:脱单了,提个commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="118" y="33" width="963" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621347055234">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="118" y="33" width="963" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621347055234" />
-    <state x="512" y="279" width="511" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620617681181">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="512" y="279" width="511" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1620617681181" />
-    <state x="511" y="104" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1620700603635">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="511" y="104" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1620700603635" />
-    <state x="548" y="0" key="Diagram.Print.Preview.Dialog" timestamp="1620637615773">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="548" y="0" key="Diagram.Print.Preview.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1620637615773" />
-    <state x="465" y="94" key="FileChooserDialogImpl" timestamp="1621346403966">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="94" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621346403966" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1621349232282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1621349232282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1621349232282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1621349232282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1621349232283">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
-    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1621349232283">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
-    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1621349232282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621349232282" />
-    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1621349232283">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621349232283" />
-    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1617884834399">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1617884834399" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1617000345246">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1617000345246" />
-    <state x="182" y="0" key="SettingsEditor" timestamp="1621346589421">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="182" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621346589421" />
-    <state x="639" y="299" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1617939554944">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="639" y="299" width="334" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1617939554944" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618756219017">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618756219017" />
   </component>
 </project>
